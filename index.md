@@ -8,6 +8,8 @@ title: Home
 
 IARA is an interdisciplinary group of researchers in robotics, AI, and automation at the University of Ottawa. We focus on developing deployable robotic systems by combining sensing, control, and learning, with strong engagement in industry and government applications.
 
+IARA brings together faculty across Mechanical Engineering, Electrical Engineering and Computer Science working on applied robotics and AI.
+
 ---
 
 ## People
