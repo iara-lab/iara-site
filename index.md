@@ -18,18 +18,18 @@ IARA is an interdisciplinary group of researchers in robotics, AI, and automatio
 
 ## People
 
+
 <div class="grid">
 {% for pi in site.data.pis %}
   <div class="card">
     <h3>
-      <a href="{{ pi.url }}" target="_blank">
-        {{ pi.name }}
-      </a>
+      <a href="{{ pi.url }}">{{ pi.name }}</a>
     </h3>
-    <p>{{ pi.lab }}</p>
+    <p>{{ pi.description }}</p>
   </div>
 {% endfor %}
 </div>
+
 
 
 ---
