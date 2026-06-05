@@ -1,130 +1,33 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  color: #222;
-  line-height: 1.6;
-}
-
-/* ---------------- HEADER ---------------- */
-
-header {
-  background: #8B1D2C;
-  color: white;
-  padding: 30px 20px;
-}
-
-.header-inner {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 20px;
-}
-
-.container {
-  max-width: 1000px;
-  margin: auto;
-}
-
-/* Logo */
-.logo {
-  height: 65px;
-}
-
-/* Title styling */
-header h1 {
-  margin: 0;
-  font-size: 28px;
-}
-
-.subtitle {
-  margin: 5px 0 0 0;
-  font-size: 14px;
-  opacity: 0.9;
-}
-
-/* ---------------- MAIN CONTENT ---------------- */
-
-main {
-  max-width: 1000px;
-  margin: auto;
-  padding: 30px 20px;
-}
-
-h1, h2, h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-/* More spacing between sections */
-main h2 {
-  margin-top: 40px;
-}
-
-/* ---------------- GRID + CARDS ---------------- */
-
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 18px;
+  gap: 25px;
 }
 
-/* Card styling */
 .card {
   border: 1px solid #ddd;
-  padding: 18px;
+  padding: 20px;
   border-radius: 6px;
   background: #fafafa;
-  transition: transform 0.1s ease, box-shadow 0.1s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  display: flex;
+  flex-direction: column;
 }
 
-/* Subtle hover effect */
 .card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+  cursor: pointer;
 }
 
-/* PI name (strong visual emphasis) */
 .card h3 {
   font-size: 22px;
-  margin-bottom: 6px;
-  font-weight: 600;
+  margin-bottom: 8px;
 }
 
-/* Match uOttawa banner colour */
-.card h3 a {
-  color: #8B1D2C;
-  text-decoration: none;
-}
-
-/* Subtle hover interaction */
-.card h3 a:hover {
-  text-decoration: underline;
-}
-
-/* PI description (secondary, subtle) */
 .card p {
   font-size: 14px;
-  color: #555;
-  margin: 0;
-}
-
-/* ---------------- LINKS ---------------- */
-
-a {
-  color: #8B1D2C;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* ---------------- FOOTER ---------------- */
-
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #f3f3f3;
-  font-size: 14px;
-  color: #444;
+  color: #666;
+  margin-top: 4px;
+  line-height: 1.4;
 }
