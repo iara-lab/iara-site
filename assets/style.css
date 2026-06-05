@@ -83,16 +83,22 @@ main h2 {
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-/* PI name (primary emphasis) */
+/* PI name (strong visual emphasis) */
 .card h3 {
-  font-size: 20px;
-  margin-bottom: 5px;
+  font-size: 22px;
+  margin-bottom: 6px;
+  font-weight: 600;
 }
 
-/* Make names visually stronger */
+/* Match uOttawa banner colour */
 .card h3 a {
-  color: #222;
+  color: #8B1D2C;
   text-decoration: none;
+}
+
+/* Subtle hover interaction */
+.card h3 a:hover {
+  text-decoration: underline;
 }
 
 /* PI description (secondary, subtle) */
