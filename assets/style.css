@@ -11,6 +11,17 @@ header {
   padding: 30px 20px;
   text-align: center;
 }
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.logo {
+  height: 40px;
+}
+
 
 main {
   max-width: 1000px;
