@@ -1,6 +1,6 @@
 title: IARA
 description: Instrumentation and Autonomous Robotics Agents
-baseurl: ""
+baseurl: "/iara-site"
 url: ""
 
 markdown: kramdown
