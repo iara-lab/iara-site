@@ -5,12 +5,6 @@ title: Home
 
 # Instrumentation and Autonomous Robotics Agents (IARA)
 
-Applied Robotics Research at the University of Ottawa  
-*Real environments. Real constraints. Real impact.*
-
----
-
-## About
 
 IARA is an interdisciplinary group of researchers in robotics, AI, and automation at the University of Ottawa. We focus on developing deployable robotic systems by combining sensing, control, and learning, with strong engagement in industry and government applications.
 
