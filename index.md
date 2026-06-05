@@ -23,7 +23,7 @@ IARA is an interdisciplinary group of researchers in robotics, AI, and automatio
   <div class="card">
     <h3>{{ pi.name }}</h3>
     <p>{{ pi.area }}</p>
-    <a>For more details see: \url{{{ pi.url }}} </a>
+    <a>For more details see: {{ pi.url }} </a>
   </div>
 {% endfor %}
 </div>
