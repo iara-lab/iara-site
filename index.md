@@ -23,7 +23,7 @@ IARA brings together faculty across Mechanical Engineering, Electrical Engineeri
         {{ pi.name }}
       </a>
     </h3>
-    <p>{{ pi.description }}</p>
+    <p>{{ pi.lab }}</p>
   </div>
 {% endfor %}
 </div>
