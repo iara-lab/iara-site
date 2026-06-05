@@ -21,13 +21,38 @@
 }
 
 .card h3 {
-  font-size: 22px;
+  font-size: 24px;
   margin-bottom: 8px;
+  font-weight: 600;
+  line-height: 1.25;
 }
 
+/* Name color = uOttawa garnet */
+.card h3 a {
+  color: #8B1D2C;
+  text-decoration: none;
+}
+
+/* Subtle hover (professional, not flashy) */
+.card h3 a:hover {
+  text-decoration: underline;
+}
+
+
 .card p {
-  font-size: 14px;
+  font-size: 13px;
   color: #666;
   margin-top: 4px;
   line-height: 1.4;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.logo {
+  height: 65px;
 }
