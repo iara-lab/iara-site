@@ -17,13 +17,14 @@
   area: Machine vision, sensing, and robotic automation
   lab: "Sensing and Machine Vision for Automation and Robotic Intelligence (SMART)"
   url: "https://www.site.uottawa.ca/~ppayeur/"
-  
-- name: Davide Spinello
-  area: Dynamical systems, robotics, and autonomy
-  lab: "Robotics and Dynamical Systems Lab"
-  url: https://uniweb.uottawa.ca/view/profile/members/175
 
 - name: Mohammad Pirani
   area: Resilience of networked control systems
   lab: "Resilient of Networked Control Systems"
   url: "https://sites.google.com/site/mmdpirani"
+
+  
+- name: Davide Spinello
+  area: Dynamical systems, robotics, and autonomy
+  lab: "Robotics and Dynamical Systems Lab"
+  url: https://uniweb.uottawa.ca/view/profile/members/175
