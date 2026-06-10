@@ -1,24 +1,29 @@
-- name: Pierre Payeur
-  area: Machine vision, sensing, and robotic automation
-  lab: "Sensing and Machine Vision for Automation and Robotic Intelligence (SMART)"
-  url: "https://www.site.uottawa.ca/~ppayeur/"
+- name: Colin Bellinger
+  area: Machine learning and robot learning
+  lab: "Machine Intelligence and Robot Learning (MIRL)"
+  url: "https://cbellinger27.github.io"
 
 - name: Wail Gueaieb
   area: Intelligent mechatronics and robotics
   lab: "Machine Intelligence, Robotics and Mechatronics (MIRaM)"
   url: https://uniweb.uottawa.ca/view/profile/members/197
 
+- name: Eric Lanteigne
+  area: Uncrewed aerial systems and machine design
+  lab: "Robotic Intelligence and Machines Development Lab"
+  url: "https://www.uottawa.ca/faculty-engineering/department-mechanical-engineering/directory/eric-lanteigne"
+  
+- name: Pierre Payeur
+  area: Machine vision, sensing, and robotic automation
+  lab: "Sensing and Machine Vision for Automation and Robotic Intelligence (SMART)"
+  url: "https://www.site.uottawa.ca/~ppayeur/"
+  
 - name: Davide Spinello
   area: Dynamical systems, robotics, and autonomy
   lab: "Robotics and Dynamical Systems Lab"
   url: https://uniweb.uottawa.ca/view/profile/members/175
 
-- name: Eric Lanteigne
-  area: Uncrewed aerial systems and machine design
-  lab: "Robotic Intelligence and Machines Development Lab"
-  url: "https://www.uottawa.ca/faculty-engineering/department-mechanical-engineering/directory/eric-lanteigne"
-
-- name: Colin Bellinger
-  area: Machine learning and robot learning
-  lab: "Machine Intelligence and Robot Learning (MIRL)"
-  url: "https://cbellinger27.github.io"
+- name: Mohammad Pirani
+  area: Resilience of networked control systems
+  lab: ""
+  url: "https://sites.google.com/site/mmdpirani"
