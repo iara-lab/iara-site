@@ -35,7 +35,7 @@ IARA brings together faculty across Mechanical Engineering, Electrical Engineeri
   Autonomous navigation, manipulation, multi-agent systems, and decision making
 
 - **AI & Robot Learning**  
-  Reinforcement learning, adaptive control, sim-to-real transfer, human–robot interaction
+  Reinforcement learning, adaptive control, sim-to-real transfer, and human–robot interaction
 
 - **Sensing & Perception**  
   Machine vision, multimodal sensing, and instrumentation
