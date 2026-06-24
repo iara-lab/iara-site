@@ -32,10 +32,10 @@ IARA brings together faculty across Mechanical Engineering, Electrical Engineeri
 ## Research Areas
 
 - **Robotic Systems & Automation**  
-  Autonomous navigation, manipulation, and multi-agent systems
+  Autonomous navigation, manipulation, multi-agent systems, and decision making
 
 - **AI & Robot Learning**  
-  Reinforcement learning, adaptive control, and sim-to-real transfer
+  Reinforcement learning, adaptive control, sim-to-real transfer, human–robot interaction
 
 - **Sensing & Perception**  
   Machine vision, multimodal sensing, and instrumentation
