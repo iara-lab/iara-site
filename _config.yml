@@ -1,7 +1,7 @@
 title: IARA
 description: Instrumentation and Autonomous Robotics Agents
 baseurl: "/iara-site"
-url: "https://cbellinger27.github.io"
+url: "https://iara-lab.github.io"
 
 markdown: kramdown
 theme: null
