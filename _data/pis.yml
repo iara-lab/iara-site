@@ -1,24 +1,19 @@
 - name: Colin Bellinger
-  area: Machine learning and robot learning
-  lab: "Machine Intelligence and Robot Learning (MIRL)"
-  url: "https://cbellinger27.github.io"
+  area: Reinforcement learning, deep learning, learning from limited data and robot learning
+  url: https://uniweb.uottawa.ca/network/profile/members/6625
 
 - name: Wail Gueaieb
   area: Intelligent mechatronics and robotics
-  lab: "Machine Intelligence, Robotics and Mechatronics (MIRaM)"
-  url: https://uniweb.uottawa.ca/view/profile/members/197
+  url: https://uniweb.uottawa.ca/view/profile/members/197?lang=en
 
 - name: Eric Lanteigne
   area: Uncrewed aerial systems and machine design
-  lab: "Robotic Intelligence and Machines Development Lab"
-  url: "https://www.uottawa.ca/faculty-engineering/department-mechanical-engineering/directory/eric-lanteigne"
+  url: https://uniweb.uottawa.ca/network/profile/members/168
   
 - name: Pierre Payeur
   area: Machine vision, sensing, and robotic automation
-  lab: "Sensing and Machine Vision for Automation and Robotic Intelligence (SMART)"
-  url: "https://www.site.uottawa.ca/~ppayeur/"
+  url:https://uniweb.uottawa.ca/network/profile/members/215
 
 - name: Davide Spinello
   area: Dynamical systems, robotics, and autonomy
-  lab: "Robotics and Dynamical Systems Lab"
   url: https://uniweb.uottawa.ca/view/profile/members/175
